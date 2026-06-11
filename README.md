@@ -10,6 +10,10 @@ policy and cohesion funding. Built with real **Eurostat** indicators and
 official **GISCO** boundaries (ESRI shapefile), shipped locally with the app:
 it runs fully offline.
 
+## Live demo
+
+https://filippomariaincecchi.shinyapps.io/EuroRegions_Spatial_Dashboard/
+
 ## Features
 
 - **Choropleth explorer** — 6 socio-economic indicators × multiple years,
@@ -67,10 +71,6 @@ Boundaries from the
 (`ref-nuts-2024-20m.shp.zip`).
 **© EuroGeographics for the administrative boundaries.** Eurostat data are
 reusable under the [Eurostat open-data policy](https://ec.europa.eu/eurostat/about-us/policies/copyright).
-
-## Live demo
-
-https://filippomariaincecchi.shinyapps.io/EuroRegions_Spatial_Dashboard/
 
 ## About
 
