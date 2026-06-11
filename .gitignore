@@ -1,0 +1,14 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# macOS
+.DS_Store
+
+# shinyapps.io deployment credentials
+rsconnect/
+
+# iCloud placeholders
+*.icloud
