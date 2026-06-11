@@ -70,8 +70,7 @@ reusable under the [Eurostat open-data policy](https://ec.europa.eu/eurostat/abo
 
 ## Live demo
 
-Deployable to [shinyapps.io](https://www.shinyapps.io) in one step:
-`rsconnect::deployApp()` from this folder (`data/` is uploaded with the app).
+https://filippomariaincecchi.shinyapps.io/EuroRegions_Spatial_Dashboard/
 
 ## About
 
